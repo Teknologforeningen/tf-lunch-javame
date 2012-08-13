@@ -1,0 +1,13 @@
+.metadata
+bin/
+build/
+dist/
+deplopy/
+*.class
+*.jar
+*.jad
+*.zip
+.private/
+nbproject/private/
+.mtj.tmp/
+.processed/
