@@ -5,7 +5,6 @@ A Java ME client to show the lunch menu at TF.
 
 The project is in NetBeans format.
 
-
 Copyright (C) 2012 Teknologforeningen
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
