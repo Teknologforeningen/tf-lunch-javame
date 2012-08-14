@@ -3,6 +3,8 @@ tf-lunch-javame
 
 A Java ME client to show the lunch menu at TF.
 
+The project is in NetBeans format.
+
 
 Copyright (C) 2012 Teknologforeningen
 
